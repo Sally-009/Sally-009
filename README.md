@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 Welcome to My Page!
 -------------------
 
-はじめまして、アメリカのとある田舎の大学にて留学中の Sally です。
+はじめまして、アメリカのとある田舎の大学にて留学中の Sally です。GitHub の使い方はまだ模索中です。
 
 ここでは軽く自己紹介をしております。
 
