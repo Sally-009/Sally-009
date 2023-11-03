@@ -38,8 +38,6 @@ Welcome to My Page!
 
 苦手なことでも自分の出来る範囲で挑戦します！
 
-自分なりに頑張ってデザインしてみたWebページをいつか公開しますので、是非覗いてみてください。
-
 **学習中のプログラミング言語（関連するツール）**
 - C++
 - C# (Unity)
@@ -47,3 +45,5 @@ Welcome to My Page!
 - CSS
 - JavaScript
 - Python (Django)
+- Dart (Flutter)
+- Xamarin
