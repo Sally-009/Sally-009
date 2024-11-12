@@ -7,11 +7,11 @@ Welcome to My Page!
 -------------------
 
 **触ったことのあるプログラミング言語一覧（関連するツール、フレームワーク等）**
-- JavaScript（React, React Native）
+- JavaScript（React, React Native, Expo, Express.js, etc.）
 - Dart (Flutter)
 - C# (Unity)
 - C++ ... 大学で最初にちゃんと学んだ言語
 - HTML
 - CSS
-- Python (Django) ... WEBアプリ開発+AI
+- Python (Django, sklearn, pandas, etc.) ... WEBアプリ開発+AI
 - Xamarin
